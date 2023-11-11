@@ -1,3 +1,5 @@
+//Write a program that prints the IP address of www.dei.ac.in using the methods available in InetAddress class.
+
 import java.net.InetAddress;
 
 public class _2 {

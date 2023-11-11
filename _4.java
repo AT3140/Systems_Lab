@@ -1,3 +1,5 @@
+// Write a program to find all the IP addresses mapped to a domain name.
+
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 

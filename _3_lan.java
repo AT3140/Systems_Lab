@@ -1,3 +1,5 @@
+// Write a program to find the address of the local machine.
+
 import java.net.*;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
